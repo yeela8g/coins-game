@@ -45,7 +45,7 @@
 
 ### Usage
 1. **Building:**
-   - Compile the program, including all source files (`coins.cpp`, `main.cpp`), using a C++ compiler.
+   - Compile the program, including all source files using a C++ compiler.
 
 2. **Execution:**
    - Run the compiled executable to start the Coins Game.
